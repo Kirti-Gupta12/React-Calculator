@@ -1,3 +1,15 @@
+# About
+
+🧮Created a responsive [react calculator](https://630b1f94e769771a482c1294--kirti-s-react-calculator.netlify.app/) with toggling themes.
+
+#### Overview👇
+
+![Screenshot (461)](https://user-images.githubusercontent.com/87939523/187065847-06354c1b-082f-46a7-95b0-918ab90f6414.png)
+
+![Screenshot (462)](https://user-images.githubusercontent.com/87939523/187065892-aed26aff-f364-4dd2-98d9-74895fb35b11.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
